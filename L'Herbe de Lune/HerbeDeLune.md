@@ -69,9 +69,12 @@ fixant la lune
 
 #### Arrivée des personnages
 
-Les personnages peuvent être de passage à Mirabar et rechercher du travail ou connaître Traubon (surtout si l'un d'entre eux est un nain).
+Nous sommes à la fin de l'automne. Les personnages peuvent être de passage à Mirabar et rechercher du travail, y habiter, avoir croisé Sélin au cours de leurs affaires en ville, ou connaître Traubon (surtout si l'un d'entre eux est un nain).
 
-Que ce soit Sélin ou Traubon ou leurs connaissances, les personnages arrivent devant Sélin qui leur promet la coquette sommes de 6000 PO pour rapporter le remède qui guérira sa fille. Sélin est disposé à faire une avance aux PJs de sorte qu'ils s'équipe pour n'importe quel périple.
+Que ce soit Sélin ou Traubon ou leurs connaissances, les personnages arrivent devant Sélin qui leur promet la coquette sommes de 6000 PO pour rapporter le remède qui guérira sa fille. Sélin est disposé à faire une avance aux PJs de sorte qu'ils s'équipent pour n'importe quel périple.
 
+Traubon est présent et donnera tous les détails dont il se souvient pour les PJs retrouvent la tour de Palpadigne. Il donnera aussi une amulette à chacun pour les protéger du froid.
 
+**ACTION**: décrire l'amulette
 
+Les PJs peuvent tenter de parler avec Séléné mais cette dernière reste figée en regardant vers le ciel.
