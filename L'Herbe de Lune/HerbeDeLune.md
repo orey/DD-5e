@@ -17,7 +17,7 @@ Elle comprend environ quinze mille habitants dont presque deux mille nains des m
 
 Les humains de la ville collaborent avec les nains pour gérer la production, l'acheminer aux acheteurs et protéger la ville contre les menaces magiques.
 
-![Mirabar in Forgotten Realms](https://i.imgur.com/cfpMFrY.png) {position:absolute,bottom:40px,left:260px,width:400px,mix-blend-mode:multiply}
+![Mirabar in Forgotten Realms](https://i.imgur.com/cfpMFrY.png) {position:absolute,bottom:40px,left:260px,width:380px,mix-blend-mode:multiply}
 
 {{artist,bottom:160px,left:130px
 ##### Mirabar
@@ -45,7 +45,7 @@ Mirabar produit essentiellement des armes, forgées par les nains avec les méta
 Toutes ces productions font la richesse de certains, notamment les marchands et le marquis, mais elles sont aussi à la source de toutes les convoitises, ce qui explique l'efficacité de la garde de la cité dénommée les Haches de Mirabar.
 }}
 
-### Le problème de Sélin Raurym
+## Le problème de Sélin Raurym
 
 Sélin est un administrateur plus efficace que ses prédécesseurs, aussi, il a pu s'enrichir en investissant dans certaines mines et certains ateliers.
 
@@ -67,14 +67,41 @@ fixant la lune
 
 ::::::::::::::::::
 
-#### Arrivée des personnages
+### Arrivée des personnages
 
 Nous sommes à la fin de l'automne. Les personnages peuvent être de passage à Mirabar et rechercher du travail, y habiter, avoir croisé Sélin au cours de leurs affaires en ville, ou connaître Traubon (surtout si l'un d'entre eux est un nain).
 
 Que ce soit Sélin ou Traubon ou leurs connaissances, les personnages arrivent devant Sélin qui leur promet la coquette sommes de 6000 PO pour rapporter le remède qui guérira sa fille. Sélin est disposé à faire une avance aux PJs de sorte qu'ils s'équipent pour n'importe quel périple.
 
-Traubon est présent et donnera tous les détails dont il se souvient pour les PJs retrouvent la tour de Palpadigne. Il donnera aussi une amulette à chacun pour les protéger du froid.
+Traubon est présent et donnera tous les détails dont il se souvient pour les PJs retrouvent la tour de Palpadigne. Il donnera aussi une amulette de chaleur pour chacun des personnages à porter autour du cou.
 
-**ACTION**: décrire l'amulette
+{{note
+##### Amulette de chaleur
+*Objet merveilleux, Rare (harmonisation requise)*
+:
+![Amulette de chaleur](https://i.imgur.com/B0A1M7V.png){position:absolute,top:610px,left:180px,width:100px,mix-blend-mode:darken}
+:::::::::::
+
+L'amulette de chaleur est forgée par les nains au plus profond des forges souterraines de Mirabar. Elle ressemble à une goutte de métal argenté finement ciselé. Chaque amulette est unique et est enchantée par un prêtre de Moradin qui emprisonne au sein de l'amulette un peu de la chaleur de la forge.
+
+Tant que le personnage porte cette amulette, il bénéficie d'une résistance contre les dégâts de froid.
+}}
+
+Si un des personnages est un nain et réussit un jet de Persuasion (Charisme) ou si le joueur manifeste un roleplay *ad hoc*, il peut apprendre de Traubon que ce dernier pense que le voyage les mènera vers le nord, dans le grand froid, et qu'il est nécessaire que les personnages s'équipent très correctement, l'amulette ne servant qu'à atténuer les effets du froid.
 
 Les PJs peuvent tenter de parler avec Séléné mais cette dernière reste figée en regardant vers le ciel.
+
+
+
+
+
+
+
+<!-- This is a comment that will not be rendered into your brew. Hotkey (Ctrl/Cmd + /).Visitors to Mira bar often wonder why they don't see
+more dwarves, as humans make up the majority of the
+city's surface dwellers. Another city lies just below the
+surface, and that place is dominated by dwarves. Under­
+ground, Mirabar is a city of lit residential caverns, super­
+heated forges, foundries that operate day and night, and
+tunnels leading to the mines. -->
+
